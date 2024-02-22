@@ -1,4 +1,4 @@
-<img src = "github-pic.png" align = "center">
+<img src = "github-pic-1.png" align = "center">
 
 
 <ul>
