@@ -3,10 +3,10 @@
 
 <ul>
   
-  <li><h3>🏫 I'm a senior at South Brunswick High School!</h3></li>
-  <li><h3>🌱 I love nature</h3></li>
-  <li><h3>🖥️ Right now, I'm learning Web Development, OpenCV, and Python</h3></li>
-  <li><h3>📧 Reach out at eshavigneswaran@gmail.com</h3></li>
+  <li><h4>🏫 I'm a senior at South Brunswick High School!</h4></li>
+  <li><h4>🌱 I love nature</h4></li>
+  <li><h4>🖥️ Right now, I'm learning Web Development, OpenCV, and Python</h4></li>
+  <li><h4>📧 Reach out at eshavigneswaran@gmail.com</h4></li>
 
   
 </ul>
